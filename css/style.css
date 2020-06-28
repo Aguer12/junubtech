@@ -457,10 +457,3 @@ h3 {
 .social-list__item {
     padding: .7em;
 }
-
-.top{
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-}
